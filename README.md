@@ -1,3 +1,3 @@
 # PremierProjet-
 
-pour cloner ...
+pour cloner .........clone
